@@ -1,0 +1,14 @@
+C:\Users\julia\Desktop\repos3\WeeklyChallengesREDO\ChallengesWithTestsMark8\bin\Debug\net6.0\ChallengesWithTestsMark8.exe
+C:\Users\julia\Desktop\repos3\WeeklyChallengesREDO\ChallengesWithTestsMark8\bin\Debug\net6.0\ChallengesWithTestsMark8.deps.json
+C:\Users\julia\Desktop\repos3\WeeklyChallengesREDO\ChallengesWithTestsMark8\bin\Debug\net6.0\ChallengesWithTestsMark8.runtimeconfig.json
+C:\Users\julia\Desktop\repos3\WeeklyChallengesREDO\ChallengesWithTestsMark8\bin\Debug\net6.0\ChallengesWithTestsMark8.dll
+C:\Users\julia\Desktop\repos3\WeeklyChallengesREDO\ChallengesWithTestsMark8\bin\Debug\net6.0\ChallengesWithTestsMark8.pdb
+C:\Users\julia\Desktop\repos3\WeeklyChallengesREDO\ChallengesWithTestsMark8\obj\Debug\net6.0\ChallengesWithTestsMark8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\Desktop\repos3\WeeklyChallengesREDO\ChallengesWithTestsMark8\obj\Debug\net6.0\ChallengesWithTestsMark8.AssemblyInfoInputs.cache
+C:\Users\julia\Desktop\repos3\WeeklyChallengesREDO\ChallengesWithTestsMark8\obj\Debug\net6.0\ChallengesWithTestsMark8.AssemblyInfo.cs
+C:\Users\julia\Desktop\repos3\WeeklyChallengesREDO\ChallengesWithTestsMark8\obj\Debug\net6.0\ChallengesWithTestsMark8.csproj.CoreCompileInputs.cache
+C:\Users\julia\Desktop\repos3\WeeklyChallengesREDO\ChallengesWithTestsMark8\obj\Debug\net6.0\ChallengesWithTestsMark8.dll
+C:\Users\julia\Desktop\repos3\WeeklyChallengesREDO\ChallengesWithTestsMark8\obj\Debug\net6.0\refint\ChallengesWithTestsMark8.dll
+C:\Users\julia\Desktop\repos3\WeeklyChallengesREDO\ChallengesWithTestsMark8\obj\Debug\net6.0\ChallengesWithTestsMark8.pdb
+C:\Users\julia\Desktop\repos3\WeeklyChallengesREDO\ChallengesWithTestsMark8\obj\Debug\net6.0\ChallengesWithTestsMark8.genruntimeconfig.cache
+C:\Users\julia\Desktop\repos3\WeeklyChallengesREDO\ChallengesWithTestsMark8\obj\Debug\net6.0\ref\ChallengesWithTestsMark8.dll
